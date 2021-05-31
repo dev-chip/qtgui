@@ -1,0 +1,8 @@
+# IDEs
+*.idea
+
+# bytecode files
+*.pyc
+
+# other
+*__pycache__
